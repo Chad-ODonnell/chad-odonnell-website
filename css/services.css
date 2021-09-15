@@ -1,0 +1,11 @@
+html,body {
+    background-color: #ddd;
+    margin:0px;
+}
+
+/* Top and Bottom Div */
+.Fixed-Container {
+    background-color: #ddd;
+    padding: 30px;
+    text-align: center;
+}

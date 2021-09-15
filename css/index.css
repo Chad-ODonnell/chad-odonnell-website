@@ -1,0 +1,38 @@
+/* CSS Page */
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Basic CSS */
+
+.top-container {
+    background-color: #ddd;
+    padding: 30px;
+    text-align: center;
+}
+
+.a-container {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+}
+
+.content {
+    padding: 16px;
+    background-image: url(../images/erd.jpg);
+    color:#ddd;
+    height: 600px;
+    background-position:top;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+/* Footer */ 
+
+footer {
+    background-color: #ddd;
+    padding: 30px;
+    text-align: center;
+}

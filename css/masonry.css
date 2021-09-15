@@ -1,0 +1,20 @@
+.parent-container{
+    background-color:#ddd
+}
+
+.child-container{
+    background: linear-gradient(#ddd,rgb(211, 211, 211));
+    margin: 0 auto;
+    padding: 1em 1.5em 1.5em 1.5em;
+    transition: 1s all;
+}
+
+.child-container:hover{
+    background: linear-gradient(#ddd,rgb(185, 185, 185));
+    transition: 3s;
+}
+
+.content-title{
+    color:rgb(31, 129, 228);
+    
+}
